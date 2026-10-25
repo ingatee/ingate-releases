@@ -1,10 +1,10 @@
-# Ingate Desktop
+# Ingate releases
 
-Builds of the Ingate Desktop kiosk app. Each release holds the build for one version.
+Public downloads of Ingate. Each release holds the builds for one version.
 
-## Download the latest version
+## Desktop app
 
-- macOS, Apple silicon: [ingate-desktop-mac-arm64.dmg](https://github.com/ingatee/desktop-releases/releases/latest/download/ingate-desktop-mac-arm64.dmg)
-- Linux, arm64: [ingate-desktop-linux-arm64.AppImage](https://github.com/ingatee/desktop-releases/releases/latest/download/ingate-desktop-linux-arm64.AppImage)
+- macOS, Apple silicon: [ingate-desktop-mac-arm64.dmg](https://github.com/ingatee/ingate-releases/releases/latest/download/ingate-desktop-mac-arm64.dmg)
+- Linux, arm64: [ingate-desktop-linux-arm64.AppImage](https://github.com/ingatee/ingate-releases/releases/latest/download/ingate-desktop-linux-arm64.AppImage)
 
 The macOS build is not signed. On first launch, right-click the app and choose Open.
